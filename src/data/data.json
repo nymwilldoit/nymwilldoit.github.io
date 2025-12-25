@@ -1,0 +1,166 @@
+{
+  "site": {
+    "name": "EcoML Studio",
+    "tagline": "Combining Environmental Science with AI-Powered Solutions",
+    "email": "hello@ecomlstudio.com",
+    "phone": "+880 1XXX-XXXXXX",
+    "location": "Dhaka, Bangladesh"
+  },
+  "hero": {
+    "title": "Combining Environmental Science with AI-Powered Solutions",
+    "subtitle": "Pioneering data-driven solutions for environmental challenges",
+    "cta": "View Our Work"
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "Environmental Data Analysis",
+      "description": "Advanced geographic and environmental data analysis for sustainable solutions with real-time monitoring systems",
+      "icon": "\ud83c\udf0d"
+    },
+    {
+      "id": 2,
+      "title": "Machine Learning Models",
+      "description": "Cutting-edge AI models for prediction and decision-making systems powered by deep learning algorithms",
+      "icon": "\ud83e\udd16"
+    },
+    {
+      "id": 3,
+      "title": "Data Visualization",
+      "description": "Interactive dashboards and comprehensive visual analytics with beautiful, intuitive interfaces",
+      "icon": "\ud83d\udcca"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Projects Completed",
+      "value": 25
+    },
+    {
+      "label": "Client Satisfaction",
+      "value": 98
+    },
+    {
+      "label": "ML Models Deployed",
+      "value": 15
+    },
+    {
+      "label": "Hours Support",
+      "value": 1000
+    }
+  ],
+  "about": {
+    "title": "Pioneering the intersection of environmental science and artificial intelligence",
+    "description": "EcoML Studio is dedicated to leveraging the power of machine learning and data science to address critical environmental challenges. We combine geographical expertise with advanced AI technologies to create predictive models and analytical tools that support sustainable development.",
+    "mission": "Our team specializes in environmental data analysis, predictive modeling for climate and geographical phenomena, and developing intelligent systems for resource management. From flood prediction systems to environmental impact assessments, we bring innovation to every project.",
+    "values": "We believe in data-driven solutions backed by rigorous scientific methodology. Our interdisciplinary approach combines geographic information systems, machine learning algorithms, and environmental science principles to deliver actionable insights."
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "River Flood Prediction System",
+      "description": "AI-powered flood forecasting for Bangladesh rivers using advanced LSTM models",
+      "category": "Machine Learning",
+      "tags": [
+        "LSTM",
+        "Time Series",
+        "Prediction"
+      ],
+      "details": "Comprehensive flood prediction system using historical data and machine learning to forecast river water levels in Bangladesh. Helps in early warning and disaster management."
+    },
+    {
+      "id": 2,
+      "title": "Weather Analytics Dashboard",
+      "description": "Real-time weather prediction and visualization with interactive charts",
+      "category": "Data Visualization",
+      "tags": [
+        "React",
+        "D3.js",
+        "API Integration"
+      ],
+      "details": "Interactive weather dashboard providing real-time forecasts, historical trends, and climate pattern analysis with beautiful visualizations."
+    },
+    {
+      "id": 3,
+      "title": "Geospatial Analysis Platform",
+      "description": "Spatial analysis for environmental planning and urban development",
+      "category": "GIS",
+      "tags": [
+        "ArcGIS",
+        "Python",
+        "Spatial Analysis"
+      ],
+      "details": "Advanced geospatial platform for environmental impact assessment and urban planning with powerful analytical capabilities."
+    },
+    {
+      "id": 4,
+      "title": "Crop Yield Predictor",
+      "description": "ML models for rice production prediction and crop yield optimization",
+      "category": "Agriculture",
+      "tags": [
+        "Random Forest",
+        "Feature Engineering",
+        "Agriculture"
+      ],
+      "details": "Machine learning system predicting crop yields based on weather, soil, and historical data to optimize agricultural production."
+    },
+    {
+      "id": 5,
+      "title": "Air Quality Monitor",
+      "description": "IoT-based air quality tracking system with real-time alerts",
+      "category": "IoT",
+      "tags": [
+        "IoT",
+        "Sensors",
+        "Real-time Data"
+      ],
+      "details": "IoT-enabled air quality monitoring network with real-time data collection, analysis, and alert system for pollution management."
+    },
+    {
+      "id": 6,
+      "title": "Urban Planning Tools",
+      "description": "Interactive mapping for urban planning with advanced geospatial tools",
+      "category": "GIS",
+      "tags": [
+        "Leaflet",
+        "WebGIS",
+        "Urban Planning"
+      ],
+      "details": "Comprehensive web-based GIS platform for urban planners with interactive mapping, spatial analysis, and decision support tools."
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Python",
+      "icon": "\ud83d\udc0d"
+    },
+    {
+      "name": "TensorFlow",
+      "icon": "\ud83e\udde0"
+    },
+    {
+      "name": "React",
+      "icon": "\u269b\ufe0f"
+    },
+    {
+      "name": "Node.js",
+      "icon": "\ud83d\udfe2"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "\ud83d\udc18"
+    },
+    {
+      "name": "Docker",
+      "icon": "\ud83d\udc33"
+    },
+    {
+      "name": "AWS",
+      "icon": "\u2601\ufe0f"
+    },
+    {
+      "name": "ArcGIS",
+      "icon": "\ud83d\uddfa\ufe0f"
+    }
+  ]
+}
